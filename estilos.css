@@ -38,6 +38,7 @@ nav li a:hover {
 
 /* FIN Barra navegación */
 
+/* Hero */
 .hero-header {
     background-image:linear-gradient(rgba(171, 177, 238, 0.8),rgba(0,0,0,0.5)), url("img/img-header.jpg");
     width: 100%;
@@ -53,6 +54,10 @@ nav li a:hover {
     text-align: center;
     padding: 250px;
 }
+
+/* Fin Hero */
+
+/* Principal */
 
 .contenedor {
     background-color: lightgrey;
@@ -113,6 +118,9 @@ nav li a:hover {
     width: 130px;
     padding: 10px;
 }
+
+/* Fin Principal */
+
 /* GALERIA */
 
 .contenedor-img {
@@ -123,7 +131,7 @@ nav li a:hover {
 }
 
 .img {
-    width: 23%;
+    width: 20%;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
     margin-bottom: 25px;
     border-radius: 10px;
