@@ -141,7 +141,7 @@ nav li a:hover {
 /* FOOTER */
 
 .footer-color {
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.888);
     color: white;
 }
 
